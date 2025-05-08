@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.AchievementTabDef]">
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>Paper Award</Title>
+      <Description>Obtained 100 Paper</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>100</Counter>
+    </Item>
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>Plastic Award</Title>
+      <Description>Obtained 100 Plastic</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>100</Counter>
+    </Item>
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>Metal Award</Title>
+      <Description>Obtained 100 Metal</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>100</Counter>
+    </Item>
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>Glass Award</Title>
+      <Description>Obtained 100 Glass</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>100</Counter>
+    </Item>
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>Cat Tamer</Title>
+      <Description>Tamed 5 cats</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>5</Counter>
+    </Item>
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>FlowerPot Head</Title>
+      <Description>Flower.. Pot.. !@#$%</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>100</Counter>
+    </Item>
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>Friendly GuniMan</Title>
+      <Description>Friendly Greetings</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>100</Counter>
+    </Item>
+
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>The Gossiper</Title>
+      <Description>All passerby in 1 min</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>5</Counter>
+    </Item>
+
+    <Item>
+      <Picture>Glass</Picture>
+      <Background>Cement</Background>
+      <Title>Sales Master</Title>
+      <Description>5000G through sales</Description>
+      <NormalText>Comic</NormalText>
+      <BoldText>ComicBold</BoldText>
+      <Counter>5</Counter>
+    </Item>
+    
+  </Asset>
+</XnaContent>

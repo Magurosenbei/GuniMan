@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>Hello! You have something for me?</Text>
+    </Item>
+    
+    <Item>
+      <Text>Hi! What do you have for me?</Text>
+    </Item>
+    
+    <Item>
+      <Text>Hello. I am GuniMan. Any stuff?</Text>
+    </Item>
+
+    <Item>
+      <Text>GuniMan is here! I come for the stuff!</Text>
+    </Item>
+
+    <Item>
+      <Text>Got any old newspaper for me?</Text>
+    </Item>
+
+    <Item>
+      <Text>Any used cans or bottles?</Text>
+    </Item>
+
+    <Item>
+      <Text>I come for thy rubuish!</Text>
+    </Item>
+
+   
+  
+  </Asset>
+</XnaContent>

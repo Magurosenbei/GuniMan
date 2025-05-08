@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="XmlContentExtension.BuildingAsset">
+    <VoidDeckDef>Content/Buildings/HDB/Scripts/HDB1/VoidDeckDef</VoidDeckDef>
+    <LevelDef>Content/Buildings/HDB/Scripts/HDB1/LevelDef</LevelDef>
+    <RoofDef>Content/Buildings/HDB/Scripts/HDB1/RoofDef</RoofDef>
+    <LiftDef>Content/Buildings/HDB/Scripts/HDB1/LiftDef</LiftDef>
+  </Asset>
+</XnaContent>

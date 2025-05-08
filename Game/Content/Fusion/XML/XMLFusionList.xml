@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.FusionDef]">
+    
+    <Item>
+      <ItemName>NoteBook</ItemName>
+      <Level>1</Level>
+      <Paper>15</Paper>
+      <Plastic>0</Plastic>
+      <Metal>0</Metal>
+      <Glass>0</Glass>
+      <Money>40</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Stapler</ItemName>
+      <Level>1</Level>
+      <Paper>0</Paper>
+      <Plastic>10</Plastic>
+      <Metal>10</Metal>
+      <Glass>0</Glass>
+      <Money>220</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Pen</ItemName>
+      <Level>1</Level>
+      <Paper>0</Paper>
+      <Plastic>12</Plastic>
+      <Metal>2</Metal>
+      <Glass>0</Glass>
+      <Money>70</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Origami</ItemName>
+      <Level>1</Level>
+      <Paper>50</Paper>
+      <Plastic>0</Plastic>
+      <Metal>0</Metal>
+      <Glass>0</Glass>
+      <Money>110</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Alarm Clock</ItemName>
+      <Level>2</Level>
+      <Paper>0</Paper>
+      <Plastic>25</Plastic>
+      <Metal>20</Metal>
+      <Glass>0</Glass>
+      <Money>450</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Spectacles</ItemName>
+      <Level>2</Level>
+      <Paper>0</Paper>
+      <Plastic>10</Plastic>
+      <Metal>10</Metal>
+      <Glass>10</Glass>
+      <Money>640</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Abacus</ItemName>
+      <Level>2</Level>
+      <Paper>0</Paper>
+      <Plastic>80</Plastic>
+      <Metal>0</Metal>
+      <Glass>0</Glass>
+      <Money>450</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Laptop</ItemName>
+      <Level>3</Level>
+      <Paper>0</Paper>
+      <Plastic>50</Plastic>
+      <Metal>90</Metal>
+      <Glass>40</Glass>
+      <Money>3200</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Television</ItemName>
+      <Level>3</Level>
+      <Paper>0</Paper>
+      <Plastic>60</Plastic>
+      <Metal>120</Metal>
+      <Glass>80</Glass>
+      <Money>4500</Money>
+    </Item>
+
+    <Item>
+      <ItemName>Refrigerator</ItemName>
+      <Level>3</Level>
+      <Paper>0</Paper>
+      <Plastic>100</Plastic>
+      <Metal>200</Metal>
+      <Glass>0</Glass>
+      <Money>5000</Money>
+    </Item>
+
+
+  </Asset>
+</XnaContent>

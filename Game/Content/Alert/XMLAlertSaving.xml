@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.AlertDef]">
+    
+    <Item>
+      <AlertText>Now Saving</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>Saving Now</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>Accessing Guni Hard Drive</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>Guni Guni Guni</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>GuniMan is writing in a newspaper</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>GuniMan is scribbling somewhere</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>GuniMan is uploading data somewhere</AlertText>
+    </Item>
+    
+  </Asset>
+</XnaContent>

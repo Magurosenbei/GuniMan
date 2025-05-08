@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.SpriteScripting]">
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>250 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>700 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>7.5</angleFactor>
+      <speedFactor>1.3</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>230 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>710 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>8.5</angleFactor>
+      <speedFactor>1.45</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>240 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>680 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>7</angleFactor>
+      <speedFactor>1.6</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>260 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>690 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>6.5</angleFactor>
+      <speedFactor>1.5</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>260 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>690 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>7.5</angleFactor>
+      <speedFactor>1.46</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>240 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>720 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>9.5</angleFactor>
+      <speedFactor>1.3</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>260 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>705 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>8.5</angleFactor>
+      <speedFactor>1.47</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>260 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>705 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>7.5</angleFactor>
+      <speedFactor>1.52</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>260 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>695 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>9.2</angleFactor>
+      <speedFactor>1.66</speedFactor>
+
+    </Item>
+
+    <Item>
+      <Attributes>
+
+        <Item>
+          <position>260 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+        <Item>
+          <position>695 550</position>
+          <rotation>00</rotation>
+          <scale>0.6 0.6</scale>
+        </Item>
+
+      </Attributes>
+
+      <textureAsset>Glass</textureAsset>
+      <angleFactor>8.2</angleFactor>
+      <speedFactor>1.47</speedFactor>
+
+    </Item>
+
+
+
+
+
+
+  </Asset>
+</XnaContent>
+

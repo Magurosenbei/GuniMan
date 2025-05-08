@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.HDBLevelColBox]">
+
+    <!-- PitchYawRoll.Z == ModelIndex due to troublesome constrains, and it is not really put to much use =p 
+    This is a zone decoration script
+    -->
+    
+    <!--<Item>
+      <Position>30 0 0</Position>
+      <HalfExtents>0 0 5</HalfExtents>
+      <PitchYawRoll>0 3.142 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>30 0 12.5</Position>
+      <HalfExtents>0 0 5</HalfExtents>
+      <PitchYawRoll>0 0 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>30 0 -12.5</Position>
+      <HalfExtents>0 0 5</HalfExtents>
+      <PitchYawRoll>0 0 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>50 0 2.5</Position>
+      <HalfExtents>0 0 5</HalfExtents>
+      <PitchYawRoll>0 3.142 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>35 0 8.5</Position>
+      <HalfExtents>0 0 5</HalfExtents>
+      <PitchYawRoll>0 3.142 4</PitchYawRoll>
+    </Item>-->
+
+
+  </Asset>
+</XnaContent>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>Zzzz..........</Text>
+    </Item>
+    
+    <Item>
+      <Text>Someone is sleeping in there.</Text>
+    </Item>
+
+    <Item>
+      <Text>Guniman decides not to awake the sleepy people inside.</Text>
+    </Item>
+
+    <Item>
+      <Text>There is no response</Text>
+    </Item>
+  </Asset>
+</XnaContent>

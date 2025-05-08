@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.HDBLevelColBox]">
+
+    <!-- PitchYawRoll.Z == ModelIndex due to troublesome constrains, and it is not really put to much use =p 
+    This is a fixed decoration script
+    -->
+    
+    <!-- All the Barrier -->
+
+    <Item>
+      <Position>-132 0 -118</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0.2618 0</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-139 0 -136</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0.2618 0</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-146 0 -158</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0.2618 0</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-62 0 -127</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 1.571 1</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-39 0 -137</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.182 1</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>134 0 -239</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.182 1</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-244 0 -195</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.444 0</PitchYawRoll>
+    </Item>
+    
+    <Item>
+      <Position>-230 0 -212</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.344 0</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-212 0 -230</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.244 0</PitchYawRoll>
+    </Item>
+
+
+    <Item>
+      <Position>-192 0 -240</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.144 0</PitchYawRoll>
+    </Item>
+    
+    
+    <!-- All the Lamp Posts -->
+    
+      <Item>
+      <Position>-134 0 -10.0</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-132 0 -55.0</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-130 0 40</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-191 0 -146</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 3.142 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-243 0 -177</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-151 0 -232</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 1.396 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-94 0 -181</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 5.062 3</PitchYawRoll>
+    </Item>
+    
+    <Item>
+      <Position>-83 0 -71</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.357 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-8 0 -88</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 -0.452 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>30 0 -17</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.618 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>42 0 -115</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>112 0 -161</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>210 0 -227</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 4.015 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>161 0 -205</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0.698 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>148 0 -130</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 4.189 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>103 0 -76</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 1.047 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>130 0 0</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 5.411 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>118 0 100</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 1.755 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>168 0 176</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 4.713 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>108 0 238</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 1.222 3</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-37 0 34</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>31 0 99</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-33 0 178</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-161 0 146</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 2</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-142 0 14</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-146 0 -73</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-33 0 7</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-8 0 183</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 4</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-135 0 121</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 6</PitchYawRoll>
+    </Item>
+    
+    <Item>
+      <Position>-84 0 128</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 5.780 5</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-47 0 152</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 5.586 5</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-95 0 180</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.968 5</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-130 0 160</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 2.444 5</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>25 0 130</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 1.571 5</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>24 0 170</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 1.571 5</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>57 0 37</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0.786 5</PitchYawRoll>
+    </Item>
+
+    <Item>
+      <Position>-175 0 -96</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 3.142 5</PitchYawRoll>
+    </Item>
+
+
+
+
+  </Asset>
+</XnaContent>

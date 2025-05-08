@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.AdminDef]">
+
+    <Item>
+      <Name>GuniMan</Name>
+      <Pass>GuniGuniLand</Pass>
+    </Item>
+
+    <Item>
+      <Name>Danightmare</Name>
+      <Pass>Konata</Pass>
+    </Item>
+
+    <Item>
+      <Name>Buzzy</Name>
+      <Pass>Guzzy</Pass>
+    </Item>
+
+    <Item>
+      <Name>Jasper</Name>
+      <Pass>TakoTako</Pass>
+    </Item>
+
+    <Item>
+      <Name>Kronosfere</Name>
+      <Pass>Yuki</Pass>
+    </Item>
+
+    <Item>
+      <Name>Metallic</Name>
+      <Pass>Mio</Pass>
+    </Item>
+
+
+
+
+  </Asset>
+</XnaContent>

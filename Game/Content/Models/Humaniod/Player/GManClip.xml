@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Animation>
+    <Name>pickup</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Pick</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>19</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <Animation>
+    <Name>interact</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Talk</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>40</EndFrame>
+    </SplitTask>
+  </Animation>
+  <!-- With Bag -->
+  <Animation>
+    <Name>tbag_idle</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Idle_B</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <Animation>
+    <Name>tbag_walk</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Walk_B</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>24</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <Animation>
+    <Name>tbag_sprint</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Run_B</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+  </Animation>
+  <!-- Truck -->
+  <Animation>
+    <Name>htruck_idle</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Idle_T</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <Animation>
+    <Name>htruck_walk</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Walk_T</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>24</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <Animation>
+    <Name>htruck_sprint</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Run_T</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <!-- STD Motion name -->
+  <Animation>
+    <Name>tbag_idle</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Idle</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <Animation>
+    <Name>tbag_walk</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Walk</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>24</EndFrame>
+    </SplitTask>
+  </Animation>
+
+  <Animation>
+    <Name>tbag_sprint</Name>
+    <Framerate>24</Framerate>
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Run</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+  </Animation>
+
+</Animations>

@@ -1,0 +1,263 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectGuid>{8F58E7DA-4B18-4D78-9285-46EC486E82CD}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Game</RootNamespace>
+    <AssemblyName>Game</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <XnaFrameworkVersion>v3.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaCrossPlatformGroupID>820d9135-cb77-4653-ad85-4c0b13f441ec</XnaCrossPlatformGroupID>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <Thumbnail>Icons etc\GameThumbnail.png</Thumbnail>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <StartupObject>Game.Program</StartupObject>
+    <ManifestCertificateThumbprint>A24EACBB3FEE736C854C2418C20F0675F14F9028</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Game_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>C:\Documents and Settings\072553J\Desktop\Garang Guni%28Publish%29\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>True</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="JigLibX, Version=0.0.2.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libdll\Windows\Release\JigLibX.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=x86">
+      <Private>False</Private>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6d5c3888ef60e27d, processorArchitecture=MSIL">
+      <Private>False</Private>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="XmlContentExtension, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\XmlContentSampleExtension\bin\x86\Release\XmlContentExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="XNAnimation, Version=0.7.0.0, Culture=neutral, PublicKeyToken=0c21691816f8c6d0, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libdll\XNAnimation.dll</HintPath>
+    </Reference>
+    <Reference Include="XNAnimationPipeline, Version=0.7.0.0, Culture=neutral, PublicKeyToken=0c21691816f8c6d0, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Libdll\XNAnimationPipeline.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Soruce Code\Achievement\AchievementEngine.cs" />
+    <Compile Include="Soruce Code\Achievement\AchievementOverlord.cs" />
+    <Compile Include="Soruce Code\Achievement\AchievementTab.cs" />
+    <Compile Include="Soruce Code\Artificial Intellegence\BlackCatWhiteCat.cs" />
+    <Compile Include="Soruce Code\Artificial Intellegence\CutSceneActor.cs" />
+    <Compile Include="Soruce Code\Artificial Intellegence\DoorToDoor.cs" />
+    <Compile Include="Soruce Code\Artificial Intellegence\FollowPath.cs" />
+    <Compile Include="Soruce Code\Artificial Intellegence\FuzzyLogicWrapper\Fuzz.cs" />
+    <Compile Include="Soruce Code\Artificial Intellegence\ObtainHouseCut.cs" />
+    <Compile Include="Soruce Code\Artificial Intellegence\SellCutScene.cs" />
+    <Compile Include="Soruce Code\Character\Equipment\Equipment.cs" />
+    <Compile Include="Soruce Code\Character\Humaniod Buffer.cs" />
+    <Compile Include="Soruce Code\Character\Player.cs" />
+    <Compile Include="Soruce Code\DataBase\Economy.cs" />
+    <Compile Include="Soruce Code\DataBase\Inventory.cs" />
+    <Compile Include="Soruce Code\DataBase\PlayerStats.cs" />
+    <Compile Include="Soruce Code\Effect\Billboard\Billboard.cs" />
+    <Compile Include="Soruce Code\Effect\Billboard\EmoIcon.cs" />
+    <Compile Include="Soruce Code\Effect\Particle\DanmakuStyle.cs" />
+    <Compile Include="Soruce Code\Effect\Particle\Particle.cs" />
+    <Compile Include="Soruce Code\Effect\Particle\StarHead.cs" />
+    <Compile Include="Soruce Code\Effect\PostProcessor Fx\OldTv.cs" />
+    <Compile Include="Soruce Code\Effect\PostProcessor Fx\RadialBlur.cs" />
+    <Compile Include="Soruce Code\Effect\Shadow\Shadow.cs" />
+    <Compile Include="Soruce Code\GameObjects\Animated\AnimatedObject.cs" />
+    <Compile Include="Soruce Code\GameObjects\Animated\PhysicsAnimatedObject.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\BlockingWalls.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\Building\Apartment.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\Building\Building.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\Building\BuildingBlock.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\Building\Lift.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\Building\Decoration.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\Lamp\LampPost.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\Building\ThrowingEvent.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\SDH\SDH.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\TreeCluster\CollidableCluster.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\TreeCluster\VegeGenerator.cs" />
+    <Compile Include="Soruce Code\GameObjects\Structure.cs" />
+    <Compile Include="Soruce Code\GameObjects\Interactive\Dustbin.cs" />
+    <Compile Include="Soruce Code\GameObjects\Interactive\Pickable.cs" />
+    <Compile Include="Soruce Code\GameObjects\Interactive\PickableGenerator.cs" />
+    <Compile Include="Soruce Code\GameObjects\Interactive\SavePoint.cs" />
+    <Compile Include="Soruce Code\GameObjects\Static\PhysicsStaticObject.cs" />
+    <Compile Include="Soruce Code\GameObjects\Static\StaticObject.cs" />
+    <Compile Include="Soruce Code\GameObjects\Enviroment\TreeCluster\TreeCluster.cs" />
+    <Compile Include="Soruce Code\GameObjects\VariableAsset.cs" />
+    <Compile Include="Soruce Code\GamePlay\SaveData.cs" />
+    <Compile Include="Soruce Code\Helpers\GameScreenResizer.cs" />
+    <Compile Include="Soruce Code\Screens\2D\ConsoleMenu.cs" />
+    <Compile Include="Soruce Code\Screens\2D\HealthHud.cs" />
+    <Compile Include="Soruce Code\Helpers\AudioComponent.cs" />
+    <Compile Include="Soruce Code\Character\Character.cs" />
+    <Compile Include="Soruce Code\Effect\PostProcessor Fx\GaussianBlur.cs" />
+    <Compile Include="Soruce Code\Screens\2D\AlertBox.cs" />
+    <Compile Include="Soruce Code\Screens\2D\InventoryDisplay.cs" />
+    <Compile Include="Soruce Code\Screens\2D\Loading.cs" />
+    <Compile Include="Soruce Code\Screens\2D\LoadingDef.cs" />
+    <Compile Include="Soruce Code\Screens\2D\Particle.cs" />
+    <Compile Include="Soruce Code\Screens\2D\ParticleEngine.cs" />
+    <Compile Include="Soruce Code\Screens\2D\ParticleOverlord.cs" />
+    <Compile Include="Soruce Code\Screens\2D\PlayerEvent.cs" />
+    <Compile Include="Soruce Code\Screens\2D\StoreroomMenu.cs" />
+    <Compile Include="Soruce Code\Screens\2D\TransitionScreen.cs" />
+    <Compile Include="Soruce Code\Screens\2D\WinLoseScreen.cs" />
+    <Compile Include="Soruce Code\SoundControl\SoundManager.cs" />
+    <Compile Include="Soruce Code\Sprite\MovingCoins.cs" />
+    <Compile Include="Soruce Code\Program.cs" />
+    <Compile Include="Soruce Code\MainGame.cs" />
+    <Compile Include="Soruce Code\Screens\2D\Buying.cs" />
+    <Compile Include="Soruce Code\Screens\2D\DialogueEngine.cs" />
+    <Compile Include="Soruce Code\Screens\2D\GuniUI.cs" />
+    <Compile Include="Soruce Code\Screens\2D\InGameMainMenu.cs" />
+    <Compile Include="Soruce Code\Screens\2D\Interactive.cs" />
+    <Compile Include="Soruce Code\Screens\2D\LiftSelection.cs" />
+    <Compile Include="Soruce Code\Screens\3D\World3D.cs" />
+    <Compile Include="Soruce Code\Screens\2D\AudioButton.cs" />
+    <Compile Include="Soruce Code\Screens\2D\AudioGame.cs" />
+    <Compile Include="Soruce Code\Screens\2D\ClearScreen.cs" />
+    <Compile Include="Soruce Code\Screens\2D\MainMenu.cs" />
+    <Compile Include="Soruce Code\Screens\2D\Prologue.cs" />
+    <Compile Include="Soruce Code\Screens\2D\WorldMap.cs" />
+    <Compile Include="Soruce Code\Sprite\AnimateSprite.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <Content Include="Icons etc\Game.ico" />
+    <Content Include="Icons etc\GameThumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <NestedContentProject Include="Content\Content.contentproj">
+      <Project>a6c81dfb-fe5f-41a4-ae9a-c40edca2af88</Project>
+      <Visible>False</Visible>
+    </NestedContentProject>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Engine\Engine.csproj">
+      <Project>{8F6B7B19-A1AA-4270-A199-84BCAEAB0B40}</Project>
+      <Name>Engine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 3.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Game_TemporaryKey.pfx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

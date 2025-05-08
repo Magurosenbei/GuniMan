@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>Wow... Thanks... A lot!</Text>
+    </Item>
+    
+    <Item>
+      <Text>Thanks!!!</Text>
+    </Item>
+    
+    <Item>
+      <Text>Ok! I accept!!!</Text>
+    </Item>
+
+    <Item>
+      <Text>Okay!</Text>
+    </Item>
+
+    
+  </Asset>
+</XnaContent>

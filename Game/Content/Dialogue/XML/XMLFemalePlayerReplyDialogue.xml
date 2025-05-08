@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>Here~</Text>
+    </Item>
+    
+    <Item>
+      <Text>Here you go.</Text>
+    </Item>
+    
+    <Item>
+      <Text>Ta-da!</Text>
+    </Item>
+  
+  </Asset>
+</XnaContent>

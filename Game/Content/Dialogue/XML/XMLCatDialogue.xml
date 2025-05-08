@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>Nyaaaa~</Text>
+    </Item>
+    
+    <Item>
+      <Text>Meow~</Text>
+    </Item>
+
+    <Item>
+      <Text>Meow~!</Text>
+    </Item>
+
+    <Item>
+      <Text>Mmmeeooowwwwww~~~~</Text>
+    </Item>
+
+    <Item>
+      <Text>*lick* *lick* *lick*</Text>
+    </Item>
+
+    <Item>
+      <Text>The cat stares at you with its innocent eyes.</Text>
+    </Item>
+
+    <!-- Add on text =P -->
+    <Item>
+      <Text>(*.*) Meoow?</Text>
+    </Item>
+
+  </Asset>
+</XnaContent>

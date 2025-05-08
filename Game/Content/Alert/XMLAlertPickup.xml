@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.AlertDef]">
+    
+    <Item>
+      <AlertText>You tripped over </AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>You found </AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>You stumbled upon </AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>You discovered </AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>You chanced upon </AlertText>
+    </Item>
+    
+  </Asset>
+</XnaContent>

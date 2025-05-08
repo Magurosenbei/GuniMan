@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.EconomyDef]">
+    
+    <Item>
+      <Name>Paper</Name>
+      <ID>1</ID>
+      <MinPrice>1</MinPrice>
+      <MaxPrice>3</MaxPrice>
+    </Item>
+
+    <Item>
+      <Name>Plastic</Name>
+      <ID>2</ID>
+      <MinPrice>3</MinPrice>
+      <MaxPrice>6</MaxPrice>
+    </Item>
+
+
+    <Item>
+      <Name>Metal</Name>
+      <ID>3</ID>
+      <MinPrice>15</MinPrice>
+      <MaxPrice>20</MaxPrice>
+    </Item>
+
+
+    <Item>
+      <Name>Glass</Name>
+      <ID>4</ID>
+      <MinPrice>10</MinPrice>
+      <MaxPrice>20</MaxPrice>
+    </Item>
+
+
+
+
+
+  </Asset>
+</XnaContent>

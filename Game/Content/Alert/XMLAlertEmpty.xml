@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.AlertDef]">
+
+    <Item>
+      <AlertText>There is nothing useful</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>Hmmm....Nah the stuff isn't good</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>Guniman digs desperately but to no avail</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>T.T Guniman's finger got bitten by mosquito</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>=.=" The base feels cold</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>The stuff is badly destroyed and can never be reused</AlertText>
+    </Item>
+
+    <Item>
+      <AlertText>T.T Guniman got bitten by a mouse</AlertText>
+    </Item>
+    
+  </Asset>
+</XnaContent>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Animation>
+    <Name>Take 001</Name>
+    <Framerate>24</Framerate>
+    <!-- Has 40 frames -->
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Walk</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>40</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Run</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>40</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Idle</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>20</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Talk</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>20</EndFrame>
+    </SplitTask>
+
+  </Animation>
+</Animations>

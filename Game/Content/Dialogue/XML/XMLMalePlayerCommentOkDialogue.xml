@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>Deal.</Text>
+    </Item>
+    
+    <Item>
+      <Text>Alright.</Text>
+    </Item>
+    
+    <Item>
+      <Text>I am okay with that.</Text>
+    </Item>
+
+    <Item>
+      <Text>It's a done deal.</Text>
+    </Item>
+
+    <Item>
+      <Text>I accept your offer.</Text>
+    </Item>
+
+    
+  </Asset>
+</XnaContent>

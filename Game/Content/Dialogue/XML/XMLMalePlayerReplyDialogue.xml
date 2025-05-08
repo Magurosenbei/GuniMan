@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>So... How much do you offer for this?</Text>
+    </Item>
+    
+    <Item>
+      <Text>What's the deal for this?</Text>
+    </Item>
+    
+    <Item>
+      <Text>Here's the deal.</Text>
+    </Item>
+
+    <Item>
+      <Text>How much for this?</Text>
+    </Item>
+  
+  </Asset>
+</XnaContent>

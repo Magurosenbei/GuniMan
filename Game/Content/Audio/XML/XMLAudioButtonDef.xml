@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.AudioButtonDef]">
+
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Ga</Sound>
+      <Timing>2.275</Timing>
+    </Item>
+
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Rang</Sound>
+      <Timing>2.55</Timing>
+    </Item>
+
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Gu</Sound>
+      <Timing>3.05</Timing>
+    </Item>
+
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Ni</Sound>
+      <Timing>3.55</Timing>
+    </Item>
+
+    <Item>
+      <Button>LR Button</Button>
+      <Sound>horn1</Sound>
+      <Timing>4.15</Timing>
+    </Item>
+
+    <Item>
+      <Button>LR Button</Button>
+      <Sound>horn2</Sound>
+      <Timing>4.55</Timing>
+    </Item>
+
+    <Item>
+      <Button>LR Button</Button>
+      <Sound>horn3</Sound>
+      <Timing>4.79</Timing>
+    </Item>
+
+    <Item>
+      <Button>LR Button</Button>
+      <Sound>horn4</Sound>
+      <Timing>5.15</Timing>
+    </Item>
+
+    <Item>
+      <Button>LR Button</Button>
+      <Sound>horn5</Sound>
+      <Timing>5.4</Timing>
+    </Item>
+
+    <Item>
+      <Button>LR Button</Button>
+      <Sound>horn6</Sound>
+      <Timing>5.53</Timing>
+    </Item>
+
+    <Item>
+      <Button>LR Button</Button>
+      <Sound>horn7</Sound>
+      <Timing>5.75</Timing>
+    </Item>
+    
+    
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Sio</Sound>
+      <Timing>6.37</Timing>
+    </Item>
+    
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Bo</Sound>
+      <Timing>7.00</Timing>
+    </Item>
+    
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Zhua</Sound>
+      <Timing>7.70</Timing>
+    </Item>
+    
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Gou</Sound>
+      <Timing>8.45</Timing>
+    </Item>
+
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Sa</Sound>
+      <Timing>9.05</Timing>
+    </Item>
+
+    <Item>
+      <Button>X Button</Button>
+      <Sound>Kor</Sound>
+      <Timing>9.65</Timing>
+    </Item>
+    
+  </Asset>
+</XnaContent>

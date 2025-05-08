@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>Hi!</Text>
+    </Item>
+    
+    <Item>
+      <Text>Hello!</Text>
+    </Item>
+    
+    <Item>
+      <Text>Yo!</Text>
+    </Item>
+
+    <Item>
+      <Text>Howdy!</Text>
+    </Item>
+
+    <Item>
+      <Text>Hello.</Text>
+    </Item>
+
+    <Item>
+      <Text>Hi there!</Text>
+    </Item>
+
+    <Item>
+      <Text>Hey there!</Text>
+    </Item>
+
+    <Item>
+      <Text>What's up?</Text>
+    </Item>
+
+    <Item>
+      <Text>Wassup!</Text>
+    </Item>
+
+    <Item>
+      <Text>Good Day!</Text>
+    </Item>
+
+    <Item>
+      <Text>Yes?</Text>
+    </Item>
+    
+  </Asset>
+</XnaContent>

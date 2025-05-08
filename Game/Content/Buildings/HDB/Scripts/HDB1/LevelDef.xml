@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XmlContentExtension.BuildingDef">
+    <!--<ModelPath>Content/Buildings/HDB/Model/Level</ModelPath>-->
+    <ModelPath>Content/Buildings/HDB/Models/HDB1/Level</ModelPath>
+    <ShaderPath>Content/Shader Fx/CelFx</ShaderPath>
+    <DoorPath>Content/Buildings/HDB/Models/HDB1/LiftDoor</DoorPath>
+    <Height>10.0</Height>
+    <Scale>1 1 1</Scale>
+    <OutlineScale>1.01 1.005 1.005</OutlineScale>
+    <ModelOffset>0 0 0</ModelOffset>
+    <!-- Collision Definition -->
+    <ColStore>
+      <!-- Floor -->
+      <Item>
+        <Position>0 -0.5 2.5</Position>
+        <HalfExtents>5 0.5 22.5</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <!-- Wall, place doors and windows to this -->
+      <Item>
+        <Position>-4.5 4 0</Position>
+        <HalfExtents>0.5 5 20</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <!-- Fence -->
+      <Item>
+        <Position>4.5 1.5 0</Position>
+        <HalfExtents>0.5 2.5 20</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <!-- Side Wall, Facing opp of lift -->
+      <Item>
+        <Position>0 4 -20</Position>
+        <HalfExtents>5 5 1</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <!-- Lift -->
+      <Item>
+        <Position>-3.75 4 24.0</Position>
+        <HalfExtents>0.25 5 4.0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>3.75 4 24.0</Position>
+        <HalfExtents>0.25 5 4.0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>0 4.0 27.5</Position>
+        <HalfExtents>3.5 5 0.5</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+    </ColStore>
+    <!-- Lift Door Activator, using PitchYawRoll as Door Position -->
+    <LiftSlot>
+      <Position>0 2 19.5</Position>
+      <HalfExtents>4 1 0.1</HalfExtents>
+      <PitchYawRoll>3.5 0 20.5</PitchYawRoll>
+    </LiftSlot>
+    <!-- No houses -->
+    <HouseSlot>
+      <!-- HouseDoorStep = Position, DoorPivotOffset = HalfExtents, 
+      PitchYawRoll = Control Statement of Movement X: increment Y: limit Z as Inverse indication -->
+      <Item>
+        <Position>-4.5 0 5.5</Position>
+        <HalfExtents>0 0 7.5</HalfExtents>
+        <PitchYawRoll>0.05 1.571 0 </PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-4.5 0 -5.5</Position>
+        <HalfExtents>0 0 7.5</HalfExtents>
+        <PitchYawRoll>0.05 1.571 0 </PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-4.5 0 -16.5</Position>
+        <HalfExtents>0 0 7.5</HalfExtents>
+        <PitchYawRoll>0.05 1.571 0 </PitchYawRoll>
+      </Item>
+    </HouseSlot>
+  </Asset>
+</XnaContent>

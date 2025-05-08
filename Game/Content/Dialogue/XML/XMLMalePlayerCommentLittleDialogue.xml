@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>That's too little.</Text>
+    </Item>
+    
+    <Item>
+      <Text>That's not enough.</Text>
+    </Item>
+    
+    <Item>
+      <Text>Hmmm... No.</Text>
+    </Item>
+
+    <Item>
+      <Text>Nah.</Text>
+    </Item>
+
+    <Item>
+      <Text>Nope.</Text>
+    </Item>
+
+    <Item>
+      <Text>What is this?!</Text>
+    </Item>
+  </Asset>
+</XnaContent>

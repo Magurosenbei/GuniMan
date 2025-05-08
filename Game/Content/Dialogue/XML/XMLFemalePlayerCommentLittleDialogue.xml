@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>No way~</Text>
+    </Item>
+    
+    <Item>
+      <Text>You're pathetic.</Text>
+    </Item>
+    
+    <Item>
+      <Text>Make it higher and you will have a deal.</Text>
+    </Item>
+
+    <Item>
+      <Text>......</Text>
+    </Item>
+
+    <Item>
+      <Text>... trying to be funny arn't you?</Text>
+    </Item>
+
+    <Item>
+      <Text>What is this?!</Text>
+    </Item>
+
+    <Item>
+      <Text>What is wrong with you?!</Text>
+    </Item>
+
+    
+  </Asset>
+</XnaContent>

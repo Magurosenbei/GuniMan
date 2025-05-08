@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.WayPoint]">
+    <Item>
+      <Position>0 0 200</Position>
+      <RadiusRange>12</RadiusRange>
+      <Id>0</Id>
+      <LinkIndex>
+        <Item><Value>1</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-40 0 210</Position>
+      <RadiusRange>12</RadiusRange>
+      <Id>1</Id>
+      <LinkIndex>
+        <Item><Value>0</Value></Item>
+      </LinkIndex>
+    </Item>
+
+    <Item>
+      <Position>-94 0 150</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>2</Id>
+      <LinkIndex>
+        <Item><Value>1</Value></Item>
+        <Item><Value>3</Value></Item>
+        <Item><Value>4</Value></Item>
+      </LinkIndex>
+    </Item>
+
+    <Item>
+      <Position>-150 0 138</Position>
+      <RadiusRange>12</RadiusRange>
+      <Id>3</Id>
+      <LinkIndex>
+        <Item><Value>5</Value></Item>
+        <Item><Value>2</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-130 0 80</Position>
+      <RadiusRange>12</RadiusRange>
+      <Id>4</Id>
+      <LinkIndex>
+        <Item><Value>5</Value></Item>
+        <Item><Value>2</Value></Item>
+        <Item><Value>6</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-180 0 100</Position>
+      <RadiusRange>12</RadiusRange>
+      <Id>5</Id>
+      <LinkIndex>
+        <Item><Value>3</Value></Item>
+        <Item><Value>4</Value></Item>
+        <Item><Value>6</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-120 0 35</Position>
+      <RadiusRange>12</RadiusRange>
+      <Id>6</Id>
+      <LinkIndex>
+        <Item><Value>7</Value></Item>
+        <Item><Value>8</Value></Item>
+        <Item><Value>4</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-70 0 20</Position>
+      <RadiusRange>12</RadiusRange>
+      <Id>7</Id>
+      <LinkIndex>
+        <Item><Value>6</Value></Item>
+        <Item><Value>8</Value></Item>
+        <Item><Value>9</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-100 0 -30</Position>
+      <RadiusRange>16</RadiusRange>
+      <Id>8</Id>
+      <LinkIndex>
+        <Item><Value>6</Value></Item>
+        <Item><Value>7</Value></Item>
+        <Item><Value>14</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-10 0 45</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>9</Id>
+      <LinkIndex>
+        <Item><Value>10</Value></Item>
+        <Item><Value>7</Value></Item>
+        <Item><Value>11</Value></Item>
+      </LinkIndex>
+    </Item>
+
+    <Item>
+      <Position>75 0 50</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>10</Id>
+      <LinkIndex>
+        <Item><Value>11</Value></Item>
+        <Item><Value>9</Value></Item>
+        <Item><Value>12</Value></Item>
+      </LinkIndex>
+    </Item>
+
+    <Item>
+      <Position>50 0 95</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>11</Id>
+      <LinkIndex>
+        <Item><Value>10</Value></Item>
+        <Item><Value>9</Value></Item>
+        <Item><Value>12</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>90 0 120</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>12</Id>
+      <LinkIndex>
+        <Item><Value>10</Value></Item>
+        <Item><Value>11</Value></Item>
+        <Item><Value>13</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>50 0 170</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>13</Id>
+      <LinkIndex>
+        <Item><Value>11</Value></Item>
+        <Item><Value>12</Value></Item>
+        <Item><Value>0</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+    <Item>
+      <Position>-130 0 -85</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>14</Id>
+      <LinkIndex>
+        <Item><Value>8</Value></Item>
+        <Item><Value>15</Value></Item>
+      </LinkIndex>
+    </Item>
+
+    <Item>
+      <Position>-180 0 -125</Position>
+      <RadiusRange>10</RadiusRange>
+      <Id>15</Id>
+      <LinkIndex>
+        <Item><Value>14</Value></Item>
+      </LinkIndex>
+    </Item>
+    
+  </Asset>
+</XnaContent>

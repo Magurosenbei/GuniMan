@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="XmlContentExtension.BuildingDef">
+    <!--<ModelPath>Content/Buildings/HDB/Model/RoofTop</ModelPath>-->
+    <ModelPath>Content/Buildings/HDB/Models/HDB2//Roof</ModelPath>
+    <ShaderPath>Content/Shader Fx/CelFx</ShaderPath>
+    <DoorPath>Content/Buildings/HDB/Models/HDB2//LiftDoor</DoorPath>
+    <Height>0.0</Height>
+    <Scale>1 1 1</Scale>
+    <OutlineScale>1.005 1.1 1.005</OutlineScale>
+    <ModelOffset>0 -1 0</ModelOffset>
+    <!-- No Collision -->
+    <ColStore></ColStore>
+    <!-- No houses -->
+    <LiftSlot>
+      <Position>0 0 0</Position>
+      <HalfExtents>0 0 0</HalfExtents>
+      <PitchYawRoll>0 0 0</PitchYawRoll>
+    </LiftSlot>
+    <HouseSlot></HouseSlot>
+  </Asset>
+</XnaContent>

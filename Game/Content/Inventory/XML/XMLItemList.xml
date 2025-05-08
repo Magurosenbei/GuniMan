@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.ItemDef]">
+    
+    <Item>
+      <ItemName>Paper</ItemName>
+      <Description>Paper. A raw material. Used for fusing.</Description>
+      <ID>1</ID>
+      <Type>1</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Plastic</ItemName>
+      <Description>Plastic. A raw material. Used for fusing.</Description>
+      <ID>2</ID>
+      <Type>1</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Metal</ItemName>
+      <Description>Metal. A raw material. Used for fusing.</Description>
+      <ID>3</ID>
+      <Type>1</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Glass</ItemName>
+      <Description>Glass. A raw material. Used for fusing.</Description>
+      <ID>4</ID>
+      <Type>1</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+
+    <Item>
+      <ItemName>NoteBook</ItemName>
+      <Description>A book filled with notes.</Description>
+      <ID>10</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Stapler</ItemName>
+      <Description>A handy item that magically binds pieces of paper together.</Description>
+      <ID>11</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Pen</ItemName>
+      <Description>Something you can write with... If you can write...</Description>
+      <ID>12</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Origami</ItemName>
+      <Description>A true work of art~</Description>
+      <ID>13</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Alarm Clock</ItemName>
+      <Description>It's time for school!</Description>
+      <ID>14</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Spectacles</ItemName>
+      <Description>Something for your eyes</Description>
+      <ID>15</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Abacus</ItemName>
+      <Description>Your great-grandfather's best friend.</Description>
+      <ID>16</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Laptop</ItemName>
+      <Description>Guni XP 4GB RAM Dual-Core Processor GuniGraphics GGX9000</Description>      
+      <ID>17</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Television</ItemName>
+      <Description>Hey! The GuniMan Show is showing now!</Description>
+      <ID>18</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Refrigerator</ItemName>
+      <Description>It's freezing!</Description>
+      <ID>19</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Platinum Ring</ItemName>
+      <Description>Ooo! Shiny!!!</Description>
+      <ID>20</ID>
+      <Type>2</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Torn Shirt</ItemName>
+      <Description>A shirt that is beyond recognition.</Description>
+      <ID>30</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Punctured Ball</ItemName>
+      <Description>Awww... Now you cant play with it.</Description>
+      <ID>31</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Sweet Wrapper</ItemName>
+      <Description>Ewww! It has ants all over it.</Description>
+      <ID>32</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Banana Peel</ItemName>
+      <Description>It has fruit flies flying all around it.</Description>
+      <ID>33</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Leaves</ItemName>
+      <Description>It's still green!</Description>
+      <ID>34</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Cigarette Butt</ItemName>
+      <Description>Discarded piece of a cigarette.</Description>
+      <ID>35</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Leftover Food</ItemName>
+      <Description>Yesterday dinner.</Description>
+      <ID>36</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Dead Snail</ItemName>
+      <Description>A snail that has been caught in the rain.</Description>
+      <ID>37</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Frozen Cockroach</ItemName>
+      <Description>It's a cockroach trapped in ice.</Description>
+      <ID>38</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>Unwanted Teddy Bear</ItemName>
+      <Description>Poor teddy bear...</Description>
+      <ID>39</ID>
+      <Type>3</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>HandTruck</ItemName>
+      <Description>Increase maximum capacity to 300.</Description>
+      <ID>100</ID>
+      <Type>4</Type>
+      <Amount>0</Amount>
+      <Index>-1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>GuniHorn</ItemName>
+      <Description>The #1 attention seeking device.</Description>
+      <ID>101</ID>
+      <Type>4</Type>
+      <Amount>1</Amount>
+      <Index>1</Index>
+    </Item>
+
+    <Item>
+      <ItemName>GuniBag</ItemName>
+      <Description>Your handy dandy storage bag. 100 capacity.</Description>
+      <ID>102</ID>
+      <Type>4</Type>
+      <Amount>1</Amount>
+      <Index>0</Index>
+    </Item>
+
+  </Asset>
+</XnaContent>

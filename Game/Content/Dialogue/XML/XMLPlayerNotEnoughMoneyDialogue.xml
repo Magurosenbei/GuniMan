@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.DialogueDef]">
+    
+    <Item>
+      <Text>You have insufficent Guni.</Text>
+    </Item>
+    
+    <Item>
+      <Text>You are broke. Go away.</Text>
+    </Item>
+
+    <Item>
+      <Text>You don't have enough money.</Text>
+    </Item>
+
+    <Item>
+      <Text>How can you not have money?!</Text>
+    </Item>
+    
+  </Asset>
+</XnaContent>

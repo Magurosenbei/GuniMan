@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="XmlContentExtension.XMLMapPlot">
+    <MapModel>Content/Map/GameLevel</MapModel>
+    <DisappearPoint>180 0 180</DisappearPoint>
+    <DisappearRadius>160</DisappearRadius>
+    <SavePoint>
+      <Position>-10 0 12</Position>
+      <PitchYawRoll>0 0 0</PitchYawRoll>
+    </SavePoint>
+    <!-- Blocking walls -->
+    <LimitingWalls>Content/Map/wallsCol</LimitingWalls>
+
+    <ActiveHouse>
+      <Item>
+        <Position>-170 0 -70</Position>
+        <PitchYawRoll>0 -1.571 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-170 0 -30</Position>
+        <PitchYawRoll>0 -1.571 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-170 0 18</Position>
+        <PitchYawRoll>0 -1.571 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-170 0 67</Position>
+        <PitchYawRoll>0 -1.571 0</PitchYawRoll>
+      </Item>
+    </ActiveHouse>
+
+    <StaticBuilding>
+      <Item>
+        <Position>-270 0 100</Position>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-270 0 35</Position>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-270 0 -35</Position>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-270 0 -100</Position>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      
+      <Item>
+        <Position>-170 0 -260</Position>
+        <PitchYawRoll>0 -1.571 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-285 0 -200</Position>
+        <PitchYawRoll>0 -1.571 0</PitchYawRoll>
+      </Item>
+    </StaticBuilding>
+    <FlatHouse>
+      <Item>
+        <Position>120 0 -210</Position>
+        <PitchYawRoll>0 0.61094 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>65 0 -170</Position>
+        <PitchYawRoll>0 0.43638 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>5 0 -150</Position>
+        <PitchYawRoll>0 -0.5236 0</PitchYawRoll>
+      </Item>
+    </FlatHouse>
+    <!-- Position = center point, HalfExtents = Range ; use x and z only, PitchYaw etc orientates-->
+    <Trees>
+      <Item>
+        <Position>-310 0 -10</Position>
+        <HalfExtents>20 0 140</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-235 0 -10</Position>
+        <HalfExtents>20 0 140</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-174 0 230</Position>
+        <HalfExtents>140 0 55</HalfExtents>
+        <PitchYawRoll>0 2.44377 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-260 0 -260</Position>
+        <HalfExtents>35 0 40</HalfExtents>
+        <PitchYawRoll>0 0.7855 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-57 0 -198</Position>
+        <HalfExtents>20 0 40</HalfExtents>
+        <PitchYawRoll>0 0.37496 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>35 0 -242</Position>
+        <HalfExtents>80 0 42.5</HalfExtents>
+        <PitchYawRoll>0 0.3491 0</PitchYawRoll>
+      </Item>
+      
+      <Item>
+        <!--- May no need this -->
+        <Position>203 0 -130</Position>
+        <HalfExtents>30 0 25</HalfExtents>
+        <PitchYawRoll>0 0.87277 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>245 0 -192</Position>
+        <HalfExtents>35 0 40</HalfExtents>
+        <PitchYawRoll>0 0.8727 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-70 0 -280</Position>
+        <HalfExtents>80 0 25</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-10 0 265</Position>
+        <HalfExtents>50 0 15</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>210 0 -45</Position>
+        <HalfExtents>40 0 25</HalfExtents>
+        <PitchYawRoll>0 1.2218 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-230 0 -320</Position>
+        <HalfExtents>65 0 20</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      
+    </Trees>
+    <ColTrees>
+      <Item>
+        <Position>-30 0 -22</Position>
+        <HalfExtents>35 0 10</HalfExtents>
+        <PitchYawRoll>0 -0.40147 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>40 0 12</Position>
+        <HalfExtents>10 0 20</HalfExtents>
+        <PitchYawRoll>0 0.7855 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-36 0 100</Position>
+        <HalfExtents>57.5 0 18</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-5 0 150</Position>
+        <HalfExtents>25 0 27.5</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      
+    </ColTrees>
+    <!-- For Spawning Pickups -->
+    <PickZones>
+      <Item>
+        <Position>-130 0 128</Position>
+        <HalfExtents>50 0 30</HalfExtents>
+        <PitchYawRoll>0 0.6982 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-85 0 30</Position>
+        <HalfExtents>35 0 35</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>65 0 -53</Position>
+        <HalfExtents>50 0 50</HalfExtents>
+        <PitchYawRoll>0 -0.43638 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-120 0 -120</Position>
+        <HalfExtents>25 0 60</HalfExtents>
+        <PitchYawRoll>0 0.7855 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>100 0 70</Position>
+        <HalfExtents>50 0 40</HalfExtents>
+        <PitchYawRoll>0 0.59348 0</PitchYawRoll>
+      </Item>
+    </PickZones>
+    <!-- Dustbin Positions, HalfExtent as color -->
+    <Dustbin>
+      <Item>
+        <Position>13 0 195</Position>
+        <HalfExtents>0 0 0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      
+      <Item>
+        <Position>-77 0 207</Position>
+        <HalfExtents>0 0 0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>38 0 46</Position>
+        <HalfExtents>0 0 0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-105 0 71</Position>
+        <HalfExtents>0 0 0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-200 0 -12</Position>
+        <HalfExtents>0 0 0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+
+      <Item>
+        <Position>-200 0 -101</Position>
+        <HalfExtents>0 0 0</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+    </Dustbin>
+
+    <SellSpawn>
+      <Item>
+        <Position>-10 0 77</Position>
+        <HalfExtents>10 0 7.5</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>50 0 67</Position>
+        <HalfExtents>7.5 0 7.5</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+      <Item>
+        <Position>-50 0 67</Position>
+        <HalfExtents>7.5 0 7.5</HalfExtents>
+        <PitchYawRoll>0 0 0</PitchYawRoll>
+      </Item>
+    </SellSpawn>
+    <Sell_CenterPoint> -10 0 23</Sell_CenterPoint>
+    <Sell_PlayerSitOffSet>0 0 -1.5</Sell_PlayerSitOffSet>
+    
+    <Sell_RadiusOfEffect>32.0</Sell_RadiusOfEffect>
+    <Sell_RadiusOutBounce>10.0</Sell_RadiusOutBounce>
+    
+    <Sell_StartAngle>2.09439</Sell_StartAngle>
+    <Sell_EndAngle>-2.09439</Sell_EndAngle>
+    <Sell_IntervalAngle>0.6982</Sell_IntervalAngle>
+  </Asset>
+</XnaContent>

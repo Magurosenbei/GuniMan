@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Animations>
+  <Animation>
+    <Name>Take 001</Name>
+    <Framerate>24</Framerate>
+    <!-- Has 12 frames -->
+    <RemoveAfterTasks />
+    <SplitTask>
+      <Name>Idle_B</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+    
+    <SplitTask>
+      <Name>Walk_B</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+    
+    <SplitTask>
+      <Name>Run_B</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Idle_BH</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Walk_BH</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Run_BH</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Idle_T</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Walk_T</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Run_T</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Idle_TH</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Walk_TH</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Run_TH</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+    
+    <SplitTask>
+      <Name>Talk</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+    <SplitTask>
+      <Name>Take</Name>
+      <StartFrame>0</StartFrame>
+      <EndFrame>12</EndFrame>
+    </SplitTask>
+
+  </Animation>
+</Animations>

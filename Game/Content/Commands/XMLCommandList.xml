@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.List[XmlContentExtension.CommandDef]">
+
+    <Item>
+      <Command>exit</Command>
+      <ID>0</ID>
+    </Item>
+    
+    <Item>
+      <Command>login</Command>
+      <ID>1</ID>
+    </Item>
+
+    <Item>
+      <Command>gunieq</Command>
+      <ID>10</ID>
+    </Item>
+
+     <Item>
+      <Command>paper</Command>
+      <ID>11</ID>
+    </Item>
+ 
+     <Item>
+      <Command>plastic</Command>
+      <ID>12</ID>
+    </Item>
+    
+    <Item>
+      <Command>metal</Command>
+      <ID>13</ID>
+    </Item>
+
+    <Item>
+      <Command>glass</Command>
+      <ID>14</ID>
+    </Item>
+
+   
+
+   
+    
+  </Asset>
+</XnaContent>
